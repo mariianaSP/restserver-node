@@ -7,12 +7,13 @@
     "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mariana sanchez\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "author": "Mariana sanchez",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "1.0.3",
     "body-parser": "1.18.3",
     "express": "4.16.3",
+    "express-fileupload": "^1.0.0-alpha.1",
     "google-auth-library": "2.0.0",
     "jsonwebtoken": "8.2.0",
     "mongoose": "5.3.1",
